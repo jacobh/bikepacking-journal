@@ -119,15 +119,36 @@ Towards the end of Lighthouse Road, I took a left turn to Blanket Bay Road for t
 
 The final section of the day descended down the rough and rutted Blanket Bay Road to the campgrounds, starting off at a gentle gradient, then steadily ramping up, with the final 100m at a sketchy -13%.
 
-Looking back, I have mixed feelings about this section, as Sand Road and the Aire River were real highlights of the day, but the trek from there back to the GOR was a real drag with a loaded bike
+Looking back, I have mixed feelings about this section, as Sand Road and the Aire River were real highlights of the day, but the trek from there back to the GOR was a real drag with a loaded bike.
+
 ---
 
 # Day 3 - Blanket Bay to Dando's Campground
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5353553301/embed/9fcd6d51aeb2e661d49be09665323612fd8acf62'></iframe>
 
+### 0 - 17km Parker Spur Road & Snowy Ridge Track
+
+### 17 - 25km Apollo Bay
+
+### 25 - 43km Barham River Road & Killala Road into Old Bay Road
+
+### 43 - 53km Binns Road, Aire Valley Road
+
+### 53 - 59km Beech Forest-Mount Sabine Road
+
+### 54 - 72km Lardners Track, Sayers Track & Dando's Campground
+
 ---
 
 # Day 4 - Dando's Campground to Colac
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5353553299/embed/fd92d883211c8437c7f6ed3835c20d44fbd555a1'></iframe>
+
+### 0 - 4km Bridge Track
+
+### 4 - 16km Ridge Road, Kawarren East Road & Bull Hill Road
+
+### 16 - 24km Old Beechy Rail Trail
+
+### 24 - 36km Return to Colac
