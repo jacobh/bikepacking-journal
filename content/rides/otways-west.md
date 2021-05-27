@@ -73,6 +73,53 @@ At this point the sun was very low in the sky, making for a beautiful coastal la
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5342919054/embed/1d10d7c25455fbc0a016de79fe307cf810a26408'></iframe>
 
+I got up around 7am feeling pretty fresh and took care of my morning camp chores, cooked some brekky, charge my devices, filled my bottles and packed up camp.
+
+I rolled out of the rec reserve around 10am and went to the end of the road towards the beach for a quick look, but decided against venturing into the deep sandy 4WD tracks.
+
+### 0 - 30km Old Ocean Road & Gellibrand River Road
+
+I made my way back out of Princetown and then onto the first leg of the day, Old Ocean Road. When planning the route I thought this would just be a little back-road connector, but it turned out to be a real highlight of the trip. The road snaked its way up along the side of the Gellibrand river in a coastal valley with steep hills on both sides.
+
+After 14km the road crossed over the Great Ocean Road and continued up the Gellibrand. This section was more of a roller coaster with much of the road a roller coaster of short climbs and descents. The scenery shifted from coastal plains to a mix of rainforest ferns and farmland.
+
+### 30 - 47km Lavers Hill - Cobden Road
+
+After two hours of tracking along the Gellibrand I turned right, and started the ascent to Lavers Hill. After a couple of flat k's the road wound its way up to Lavers Hill at a gentle 3.7% average gradient. Initially the landscape was mostly pastoral, but as the elevation increased it morphed into a lush rainforest with tall trees and large ferns. Many creeks flowed under the road as it twisted through many gullies.
+
+After climbing for a bit over an hour I popped out at Lavers Hill, a common cafe stop along the GOR. I fuelled up on a toastie, chips & a coke and filled up my bottles.
+
+### 47 - 76km Colac - Lavers Hill Road, Wait-a-while Road, Aire Settlement Road & Old Ocean Road
+
+From Lavers Hill I got rolling again along the mildly terrifying 100km/h limit Colac - Lavers Hill Road (which turned out to be fine). The road rolled its way up the ridge line, netting a further 120m of elevation.
+
+Here I turned off to the right and descended down the twisting gravel Wait-a-while and Aire Settlement roads. Over 12km I dropped 500m through lush forest, averaging 28km/h. The descent was punctuated by a couple of short rises which served to stretch out the fun.
+
+At the bottom of the descent there was a short and sharp climb back up to the GOR, which I travelled on for a few hundred metres before turning off again onto Old Ocean Road.
+
+Old Ocean Road had a surface resembling yellow builders sand, which was rather slow-rolling which sapped a bit of the fun out of it. The landscape was nice with a mix of pastoral and rainforest. The road twisted down at a gentle gradient for 6km, again dropping me off at the GOR.
+
+### 76 - 89km Sand Road & Horden Vale Road
+
+At this point the sun was getting low in the sky. I went along the GOR for a few hundred metres and turned off to the left down Sand Road. Sand Road was reminiscent of Old Ocean Road near Princetown at the start of the day, with a landscape mixing together coastal and pastoral elements, surrounded by steep hills. for the first couple of kilometres the road was very badly corrugated, with it being difficult to find a smooth line over the surface. 5km in I reached the Aire River Campground, crossed over the bridge, and had a quick stop to put on some additional layers for the imminent evening.
+
+On the other side of the river there was a short and steep climb up out of the campgrounds to the ridge line, where I turned right and rolled down a few hundred metres towards Pigs Back Track. Upon arrival I was frustratingly met with a "Private Property No Access" sign and had to plan a reroute.
+
+Scrolling around on the map on my phone I realised just how limited the options around Cape Otway were, and that the only way to get to my planned campsite was to trek back up to the Great Ocean Road and go around to Lighthouse Road.
+
+With that, I climbed back up to where I turned off, and continued straight along the sealed Horden Vale Road all the way back up to the GOR. Initially there were a few very steep descents down to a bridge over a creek, then a steep climb out from the creek before plunging back down to the GOR. During this climbing I was starting to feel low on energy and smashed a Snickers bar, which helped.
+
+### 89 - 107km Great Ocean Road, Lighthouse Road & Blanket Bay Road
+
+Once I was at the base of the GOR the sun had well and truly set and I spent a few minutes getting my lights and reflective gear dialled in for the climb up the GOR. It was only 3km, but rose 190m at an average gradient of 6.8%. This was one of the more challenging sections of the ride, but I kept my head down and tapped out the climbing in 23 minutes. I was expecting this to be scary but after dark traffic was very light and I only saw a handful of cars. With my bright lights and reflective gear I felt safer and more visible than I would've been during the day.
+
+I was very relieved to get to the Lighthouse Road turnoff at the top, and stopped and had a breather and some water. From here, I wound my way back down the 190m of elevation I'd just gained at a decent pace with my helmet and bar lights at max brightness. Descending in the dark with good, bright lights is a pretty cool experience, video-game-esque with the tunnel of vision that you have in front of you.
+
+Towards the end of Lighthouse Road, I took a left turn to Blanket Bay Road for the final section of the day. Back on the gravel, the road descended and then had a couple of short climbs  hovering around the 5% mark, which, with the amount of fatigue in my legs, were pretty punishing.
+
+The final section of the day descended down the rough and rutted Blanket Bay Road to the campgrounds, starting off at a gentle gradient, then steadily ramping up, with the final 100m at a sketchy -13%.
+
+Looking back, I have mixed feelings about this section, as Sand Road and the Aire River were real highlights of the day, but the trek from there back to the GOR was a real drag with a loaded bike
 ---
 
 # Day 3 - Blanket Bay to Dando's Campground
