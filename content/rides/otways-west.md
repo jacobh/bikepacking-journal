@@ -16,6 +16,22 @@ May 22 - 25 2021
     <dd>21h46m</dd>
 </dl>
 
+This route is an exploration of the western half of the Otways.
+
+#### Day 1
+Starting at the Colac train station, then heading south-west to Princetown, skirting the edges between forest and pastoral land. 
+
+#### Day 2
+Heads east starting with a coastal landscape, into farmland, then forest, and back to the coast.
+
+#### Day 3
+Muddy management vehicle and hiking tracks are slow going initially, a pit stop in Apollo Bay, then a stunning climb up to say goodbye to the coast and reenter the forest. Descending then climbing a valley, then bombing down some sketchy fire tracks to camp.
+
+#### Day 4
+Commute back to Colac
+
+For 3 breakfasts and 3 dinners I cooked up a dehydrated meal, which consumed 70 grams of gas.
+
 ---
 
 # Day 1 - Colac to Princetown
@@ -65,7 +81,7 @@ Descending down Fords Rd I had my first view of the ocean for the day. The road 
 
 I sipped some water, set up my tail light, and prepared myself for the final TT stretch on the GOR to camp. It was mostly downhill with light traffic so wasn't quite as bad as I was fearing.
 
-At this point the sun was very low in the sky, making for a beautiful coastal landscape. I cycled through the tiny township of Princetown (public toilets, a closed pub &amp; a backpackers), and then over a boardwalk to the Princetown Recreation Reserve, where I set up camp for the night.
+At this point the sun was very low in the sky, making for a beautiful coastal landscape. I cycled through the tiny township of Princetown (public toilets, a closed pub & a backpackers), and then over a boardwalk to the Princetown Recreation Reserve, where I set up camp for the night in a spot with a table on the edge of reserve.
 
 ---
 
@@ -85,7 +101,9 @@ After 14km the road crossed over the Great Ocean Road and continued up the Gelli
 
 ### 30 - 47km Lavers Hill - Cobden Road
 
-After two hours of tracking along the Gellibrand I turned right, and started the ascent to Lavers Hill. After a couple of flat k's the road wound its way up to Lavers Hill at a gentle 3.7% average gradient. Initially the landscape was mostly pastoral, but as the elevation increased it morphed into a lush rainforest with tall trees and large ferns. Many creeks flowed under the road as it twisted through many gullies.
+After two hours of tracking along the Gellibrand I turned right, and started the ascent to Lavers Hill. After a couple of flat k's the road wound its way up to Lavers Hill at a gentle 3.7% average gradient.
+
+Initially the landscape was pastoral, but as the elevation increased it morphed into a lush rainforest with tall trees and large ferns. Creeks flowed under the road as it twisted through many gullies.
 
 After climbing for a bit over an hour I popped out at Lavers Hill, a common cafe stop along the GOR. I fuelled up on a toastie, chips & a coke and filled up my bottles.
 
@@ -101,7 +119,7 @@ Old Ocean Road had a surface resembling yellow builders sand, which was rather s
 
 ### 76 - 89km Sand Road & Horden Vale Road
 
-At this point the sun was getting low in the sky. I went along the GOR for a few hundred metres and turned off to the left down Sand Road. Sand Road was reminiscent of Old Ocean Road near Princetown at the start of the day, with a landscape mixing together coastal and pastoral elements, surrounded by steep hills. for the first couple of kilometres the road was very badly corrugated, with it being difficult to find a smooth line over the surface. 5km in I reached the Aire River Campground, crossed over the bridge, and had a quick stop to put on some additional layers for the imminent evening.
+The sun was starting to get low in the sky. I went along the GOR for a few hundred metres and turned off to the left down Sand Road. Sand Road was reminiscent of Old Ocean Road near Princetown at the start of the day, with a landscape mixing together coastal and pastoral elements, surrounded by steep hills. for the first couple of kilometres the road was very badly corrugated, with it being difficult to find a smooth line over the surface. 5km in I reached the Aire River Campground, crossed over the bridge, and had a quick stop to put on some additional layers for the imminent evening.
 
 On the other side of the river there was a short and steep climb up out of the campgrounds to the ridge line, where I turned right and rolled down a few hundred metres towards Pigs Back Track. Upon arrival I was frustratingly met with a "Private Property No Access" sign and had to plan a reroute.
 
@@ -119,7 +137,11 @@ Towards the end of Lighthouse Road, I took a left turn to Blanket Bay Road for t
 
 The final section of the day descended down the rough and rutted Blanket Bay Road to the campgrounds, starting off at a gentle gradient, then steadily ramping up, with the final 100m at a sketchy -13%.
 
-Looking back, I have mixed feelings about this section, as Sand Road and the Aire River were real highlights of the day, but the trek from there back to the GOR was a real drag with a loaded bike.
+### Blanket Bay Campground
+
+I got in to camp just before 7pm, a good two hours into the evening. I didn't have a nearby table at this site, but the toilets & water tank were closer. I set up camp and cooked my evening meal noticeably faster than the night before, even though being more fatigued. Practise paying off.
+
+Looking back, I have mixed feelings about the last couple of sections, as Sand Road and the Aire River were real highlights of the day, but the trek from there back to the GOR was a real drag with a loaded bike.
 
 ---
 
@@ -127,17 +149,125 @@ Looking back, I have mixed feelings about this section, as Sand Road and the Air
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5353553301/embed/9fcd6d51aeb2e661d49be09665323612fd8acf62'></iframe>
 
+I got up a bit later on the second day, around 7:30am, and with the morning light could finally properly see the campgrounds. I moseyed over to the beach and got to see the sun low over the water, lighting up the bay. I completed my chores, and once again rolled out around 10am. 
+
 ### 0 - 17km Parker Spur Road & Snowy Ridge Track
+
+To start the day I climbed back out of the campgrounds, with a painful 200m at 10+%. It was almost funny dealing with this kind of climbing first thing in the day. Once through the worst of it I continued back up Blanket Bay Road for a further kilometre, then rode past the gate of the MVO (management vehicle only) Parker Spur Road.
+
+Parker Spur rolled its way uphill for a few kilometres, the track covered in fallen tree foliage but otherwise in good condition. There was one large tree that had fallen over the track that I had to get off and hike over.
+
+After a couple of k's track conditions degraded and it became very soft and muddy. Initially I was dismounting to walk past the mud puddles, but after doing this a few times and felt I was burning too much time, I started riding through it instead. Sketchy at first, but I quickly got the hang of it, and was making quicker progress.
+
+What I couldn't get a handle on were the muddy climbs, where my bike had absolutely no traction, the back wheel just spinning when I peddled. For these climbs I just had to hike it, and hope the surface was in good-enough condition on the other side to make up some time.
+
+Through this section there were two intersections where the Great Ocean Walk joined and left the track, with a signpost and a couple of benches. I'm quite fond of intersections like this in the middle of the forest.
+
+#### Snowy Ridge Track
+
+After 1h45m riding and trekking along Parker Spur Road I reached the turn-off to Snowy Ridge Track. If not for my GPS I wouldn't have noticed it, it was just a narrow, overgrown trail to the right of the track, heading down the hill. I wondered for a minute or two if I should head down, double checked the heatmap online, and made the call to give it a shot.
+
+The track had a definitive corridor that would've been cleared many years ago, but it was very, very overgrown. I doubt many had hiked (let alone cycled) down it recently. There was barely a "trail", it was a grassy strip surrounded by ferns.
+
+I scooted my way down the slope, left foot on my pedal, right foot on the grass, and let gravity do its thing. I had a couple of low-speed stacks when unseen branches hooked their way around my pedals, and slid out on a slick log at a 45° angle to the trail. No harm done.
+
+My rear brake was contaminated from the mud and loudly squealing   whenever used. I was grateful the front was still working well.
+
+I found myself surrounded by massive, old trees. It was a surreal, intimate, experience seeing these trees up close on a track that has seen such little use. The distant rumble of GOR traffic the only thing reminding me I wasn't truly in the middle of nowhere.
+
+Further down, the overgrowth got to its most extreme, with ferns _completely_ covering the track, and I regretted not packing a scythe. I battled my way through relatively unscathed, just having to untangle fern branches from my cassette and derailleur.
+
+After this section it opened up slightly, with 4WD tyre tracks on the trail. I was actually able to descend some of this section at a decent clip, and popped out at Elliott Road, another connector to the Great Ocean Walk. From here I spun my way through a muddy, well trodden MVO track back up to the GOR.
 
 ### 17 - 25km Apollo Bay
 
+Once back out on the GOR I tried my best to bomb it down the 145m of elevation to the coast, but a strong headwind made it hard to get past 40km/h. I briefly peaked at ~55km/h on the final ramp down to the coast line.
+
+Once on the main strip of Apollo Bay I had a quick google and found a good burger joint for lunch, where I consumed a massive burger, chips and coke to replenish my energy levels. Similarly, my devices had a chance to recharge while I was gorging myself.
+
+I popped into the supermarket for some more chocolate bars, the bakery for a coffee and some baked treats, filled my bottles and hit the road.
+
 ### 25 - 43km Barham River Road & Killala Road into Old Bay Road
+
+The first couple of k's followed the Barham river, through the quaint farmland behind Apollo Bay. It then reached Killala Road, which branched off to the left, and ascended up into the mountain ridge.
+
+Killala Road had properties on each side of the road at steady intervals, with driveways on the straighter and flatter sections.
+
+The views back to the ocean over the hills were absolutely stunning, despite wanting to press on and crest the climb before sunset, I kept stopping for photos.
+
+The road crossed over passes between hills a few times, with the  drop-off alternating from the right, to the left, and back to the right.
+
+At the base of the road there's a sign "School Bus Route 3:30-4:30pm". Mid-way through Killala Road, I spotted a bus in the distance snaking its way up where I'd just climbed, 5 minutes later the bus passed me, and then another 10 minutes later, the bus passed me in the opposite direction.
+
+Towards the top of Killala Road there were a few people out and about, a woman walking her dog, a father and son walking home from the bus stop.
+
+Shortly after this point Killala Road became Old Bay Road, the surface became narrower, rougher and muddier, and the steep drop-off to the right was right up against the edge of the road. I felt comfortable negotiating this on my bicycle, but it would be terrifying being that close to the edge in a 4WD.
+
+Old Bay Road twisted its way up at a gentle 3.5% gradient for 6km, going up the right-hand-side of the ridge.
+
+While on the way up the climb the sun was dropping lower and lower in the sky, it became a bit of a race against time to get over the top of the climb and down the descent on the other side while I still had daylight.
+
+after almost 2 hours of climbing I passed through an odd metal gate, and stopped for a photo with the "Road Closed" sign at the top.
 
 ### 43 - 53km Binns Road, Aire Valley Road
 
+It was starting to get dark quickly, so I didn't linger for long and began the gravel descent down Binns Road, descending 3.6km at an average gradient of -6% in 5m30s, averaging 38km/h.
+
+The descent was a mix of straighter sections with slight kinks, and a few sharper corners. Vision along the road was generally pretty good so I could ride the camber of the road and really rail the turns. Towards the bottom it got a bit rougher and vision was more restricted. I could still take inside turns (to the left) with speed but had to take outside turns slower.
+
+Many of the corners were quite rutted and washed out, but as long as I took a consistent line through the corner the bike floated over it nicely.
+
+At the bottom of the descent I reached a bridge over the beautiful Aire River and the redwood plantation.
+
+On the other side of the bridge was Aire Valley Road. I was relieved to be climbing back out of the valley on tarmac.
+
+Once out of the bottom of the valley I could see a the dazzling purple and red remnants of the sunset.
+
+The wind also picked up dramatically once out of the valley, stopping me to put on knee warmers and full gloves. The cumulative effect of the 3000+m of climbing I'd done was starting to take its toll on my body. I had some panadol for pain flaring up in my right knee. I'm not sure if it worked, but within 30 minutes the pain had gone away.
+
+Despite the wind, pain, and deepening darkness, my spirits remained pretty high, with another couple of hours on the bike ahead of me.
+
 ### 53 - 59km Beech Forest-Mount Sabine Road
 
+At the top of Aire Valley Road I went a few minutes down the road to the town of Beech Forest, hoping to stop in at the pub for some dinner. Unfortunately the pub was closed (can't blame them, 6pm on a Monday night in the off-season), so I had some snacks and went on my way.
+
+Beech Forest-Mount Sabine Road was another C-road thoroughfare that I was a bit concerned about riding on during planning, but at this time of the evening there's was almost no traffic, only seeing a single car.
+
+This section was very exposed to the wind, coming in strongly from the north west.
+
+I quickly descended the few kilometres to the Lardners Track turn-off.
+
 ### 54 - 72km Lardners Track, Sayers Track & Dando's Campground
+
+- pretty fun night time descending at first
+- then track surface went to shit, muddy + all chewed up by logging trucks
+- descending gets steep on this sketchy surface
+- going down at a decent pace, but mildly terrified. had to give it my full attention
+
+I'd intended to camp at Stevensons Falls that evening, but made the call to switch to plan b, Dando's, as I'd be arriving after dark and it was a larger campground, less likely to disturb others, and I knew there was a _very_ steep -20% goat track down into Stevensons, which I wasn't keen on in the dark.
+
+At the top of Lardners Track I spent a few minutes dialling in my lights, with a combined 2200 lumens between my bars and helmet. The battery for my helmet light was running low, so I was economical usage of the brighter modes. This is enough light to turn night to day, but descending down these forest roads was pushing them to their acceptable limits.
+
+The first 2km went by in a couple of minutes, easily descending the -4% grade. From there the track forked, and I went right, onto Sayers Track (had I been better prepared I'd have gone left here, which looks like a better option to get through to Dando's).
+
+After a short climb, the sketchy descending started, with a -12% ramp lasting a few hundred metres. This was followed by a flatter few k's, which gradually rolled downward, as the track conditions got worse and worse, with it looking like there was frequent logging truck activity tearing up the track and limited maintenance.
+
+The track then twisted downward at around -10%, hitting 40km/h on the straights. Within my limits and under control, but having to pay total attention.
+
+Coming out of the last left-hand bend there were mud puddles in the tyre tracks, so I aimed around them. What I didn't notice were the deep ruts from the tyre tracks, so as I turned to the right, my wheel caught on it, at first holding my in a straight line, then my front tyre snapped out of the rut and I was spearing at 45° towards the edge of the track. I managed to stop the bike before hitting anything, and the only harm done was to my confidence descending. Had I simply gone straight through the mud puddle I would've been completely fine. I inspected my tyre tracks in the mud to figure out what had happened, let my adrenaline levels relax, and continued on my way.
+
+There was another flat kilometre, with the track conditions at their worst along this stretch.
+
+I was then on to the last 2.5km of descending, which twisted its way down at an average of -10%, peaking at -14%. I was feeling very mentally fatigued at this point and just wanted to get to the end of it, so hit the straights fast and took the corners a bit easier. My brakes were struggling with the steepness of the track.
+
+Once at the bottom of the descent I was relieved to have made it through Sayers Track unscathed. I climbed over the last, small, painful hill, and dropped in to Dando's.
+
+### Dando's Campground
+
+There were two caravans at the large, forested Dando's Campground when I arrived. I scouted the campground and picked a spot close to the toilets with a table.
+
+I quickly set up camp and got dinner on the go, and was pleased with myself that despite fatigue I was able to have be eating dinner with my tent and sleep system set up within 40 minutes. Practise paying off.
+
 
 ---
 
@@ -147,8 +277,18 @@ Looking back, I have mixed feelings about this section, as Sand Road and the Air
 
 ### 0 - 4km Bridge Track
 
+2.3km at an average of 11.6% (238m gain), peaking at 16%. It took 35 minutes at an average cadence of 41rpm.
+
 ### 4 - 16km Ridge Road, Kawarren East Road & Bull Hill Road
+
+- Roller coaster
 
 ### 16 - 24km Old Beechy Rail Trail
 
+- Wet weather gear
+- Unexpected slightly technical climb and descent
+- mind numbing TT grind up a a 1% rail trail
+
 ### 24 - 36km Return to Colac
+
+- Wet sand in the drivetrain
