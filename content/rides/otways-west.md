@@ -153,6 +153,8 @@ I got up a bit later on the second day, around 7:30am, and with the morning ligh
 
 ### 0 - 17km Parker Spur Road & Snowy Ridge Track
 
+*10:01am*
+
 To start the day I climbed back out of the campgrounds, with a painful 200m at 10+%. It was almost funny dealing with this kind of climbing first thing in the day. Once through the worst of it I continued back up Blanket Bay Road for a further kilometre, then rode past the gate of the MVO (management vehicle only) Parker Spur Road.
 
 Parker Spur rolled its way uphill for a few kilometres, the track covered in fallen tree foliage but otherwise in good condition. There was one large tree that had fallen over the track that I had to get off and hike over.
@@ -181,6 +183,8 @@ After this section it opened up slightly, with 4WD tyre tracks on the trail. I w
 
 ### 17 - 25km Apollo Bay
 
+*1:16pm*
+
 Once back out on the GOR I tried my best to bomb it down the 145m of elevation to the coast, but a strong headwind made it hard to get past 40km/h. I briefly peaked at ~55km/h on the final ramp down to the coast line.
 
 Once on the main strip of Apollo Bay I had a quick google and found a good burger joint for lunch, where I consumed a massive burger, chips and coke to replenish my energy levels. Similarly, my devices had a chance to recharge while I was gorging myself.
@@ -188,6 +192,8 @@ Once on the main strip of Apollo Bay I had a quick google and found a good burge
 I popped into the supermarket for some more chocolate bars, the bakery for a coffee and some baked treats, filled my bottles and hit the road.
 
 ### 25 - 43km Barham River Road & Killala Road into Old Bay Road
+
+*2:40pm*
 
 The first couple of k's followed the Barham river, through the quaint farmland behind Apollo Bay. It then reached Killala Road, which branched off to the left, and ascended up into the mountain ridge.
 
@@ -211,6 +217,8 @@ after almost 2 hours of climbing I passed through an odd metal gate, and stopped
 
 ### 43 - 53km Binns Road, Aire Valley Road
 
+*4:48pm*
+
 It was starting to get dark quickly, so I didn't linger for long and began the gravel descent down Binns Road, descending 3.6km at an average gradient of -6% in 5m30s, averaging 38km/h.
 
 The descent was a mix of straighter sections with slight kinks, and a few sharper corners. Vision along the road was generally pretty good so I could ride the camber of the road and really rail the turns. Towards the bottom it got a bit rougher and vision was more restricted. I could still take inside turns (to the left) with speed but had to take outside turns slower.
@@ -229,6 +237,8 @@ Despite the wind, pain, and deepening darkness, my spirits remained pretty high,
 
 ### 53 - 59km Beech Forest-Mount Sabine Road
 
+*6:01pm*
+
 At the top of Aire Valley Road I went a few minutes down the road to the town of Beech Forest, hoping to stop in at the pub for some dinner. Unfortunately the pub was closed (can't blame them, 6pm on a Monday night in the off-season), so I had some snacks and went on my way.
 
 Beech Forest-Mount Sabine Road was another C-road thoroughfare that I was a bit concerned about riding on during planning, but at this time of the evening there's was almost no traffic, only seeing a single car.
@@ -237,12 +247,9 @@ This section was very exposed to the wind, coming in strongly from the north wes
 
 I quickly descended the few kilometres to the Lardners Track turn-off.
 
-### 54 - 72km Lardners Track, Sayers Track & Dando's Campground
+### 59 - 72km Lardners Track, Sayers Track & Dando's Campground
 
-- pretty fun night time descending at first
-- then track surface went to shit, muddy + all chewed up by logging trucks
-- descending gets steep on this sketchy surface
-- going down at a decent pace, but mildly terrified. had to give it my full attention
+*6:44pm*
 
 I'd intended to camp at Stevensons Falls that evening, but made the call to switch to plan b, Dando's, as I'd be arriving after dark and it was a larger campground, less likely to disturb others, and I knew there was a _very_ steep -20% goat track down into Stevensons, which I wasn't keen on in the dark.
 
@@ -263,6 +270,8 @@ I was then on to the last 2.5km of descending, which twisted its way down at an 
 Once at the bottom of the descent I was relieved to have made it through Sayers Track unscathed. I climbed over the last, small, painful hill, and dropped in to Dando's.
 
 ### Dando's Campground
+
+*7:39pm*
 
 There were two caravans at the large, forested Dando's Campground when I arrived. I scouted the campground and picked a spot close to the toilets with a table.
 

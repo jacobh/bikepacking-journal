@@ -420,10 +420,24 @@ ul.language-select > li {
 
 // Custom additions
 
-dt {
-    font-weight: bold;
-}
-dd {
-    margin-left: 0;
-    margin-bottom: 15px;
+#main {
+    dt {
+        font-weight: bold;
+    }
+    dd {
+        margin-left: 0;
+        margin-bottom: 15px;
+    }
+    
+    hr {
+        margin: 35px 0;
+    }
+    
+    h1 {
+        margin: 1.6em 0 1.3em;
+    }
+
+    h3 {
+        margin: 1.7rem 0 1.1rem;
+    }
 }
