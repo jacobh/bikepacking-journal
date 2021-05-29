@@ -39,7 +39,7 @@ For 3 breakfasts and 3 dinners I cooked up a dehydrated meal, which consumed 70 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5336977772/embed/3ac9152f1d851c48490de81277112328837bac31'></iframe>
 
 
-I took the first VLine train to Colac, which departed Southern Cross at 6:55am. after getting in to Colac, having some brekky and picking up some sandwiches at a cafe, I set off.
+I took the first VLine train to Colac, which departed Southern Cross at 6:55am. Once arriving in Colac, having some brekky and picking up some sandwiches at a cafe, I set off.
 
 ### 0 - 13km
 
@@ -149,7 +149,7 @@ Looking back, I have mixed feelings about the last couple of sections, as Sand R
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5353553301/embed/9fcd6d51aeb2e661d49be09665323612fd8acf62'></iframe>
 
-I got up a bit later on the second day, around 7:30am, and with the morning light could finally properly see the campgrounds. I moseyed over to the beach and got to see the sun low over the water, lighting up the bay. I completed my chores, and once again rolled out around 10am. 
+I got up a bit later on the second day, around 7:30am, and with the morning light could finally properly see the campgrounds. I moseyed over to the beach and got to see the sun low over the water, lighting up the bay. I completed my chores, filling my bottles from the rainwater tank, and again rolled out around 10am.
 
 ### 0 - 17km Parker Spur Road & Snowy Ridge Track
 
@@ -284,20 +284,59 @@ I quickly set up camp and got dinner on the go, and was pleased with myself that
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5353553299/embed/fd92d883211c8437c7f6ed3835c20d44fbd555a1'></iframe>
 
+I woke up around 6:30am and could really feel the accumulated fatigue. It was hard to get out of bed at first, but with the knowledge of a storm rolling in later in the day, I got up a bit after 7am and got to my morning chores.
+
+I was expecting a rainwater tank at the campsite but the toilet block didn't have one, so I made my way over to the river running through the back of the campground, and found a path down to the water level to collect water for cooking.
+
+From there the morning routine was pretty standard. Having a table really helped getting organised and repacking the bike. Having eaten most of my food the challenge of packing became quite a lot easier, freeing up space to juggle items between my bags.
+
 ### 0 - 4km Bridge Track
 
-2.3km at an average of 11.6% (238m gain), peaking at 16%. It took 35 minutes at an average cadence of 41rpm.
+I set off and climbed over the hill out of the campgrounds. With fresher legs it was much easier than the night before.
+
+Out of the campground, there was a bridge with further river access, which I used to fill up my bottles. It was difficult getting down the steep muddy embankment to the water level, with a couple of slips in the mud. Thankfully I didn't fall in.
+
+Back on the bike, I crossed the bridge, and went up the most difficult climb of the trip. 2.3km at an average of 11.6% (238m gain), peaking at 16%.
+
+This was another climb that had me also laughing amongst the pain at how ridiculous it was, particularly with the loaded bike and 3 days of fatigue in the legs.
+
+I got in the zone of low cadence pedalling, and got to the top in 35 minutes at an average cadence of 41rpm.
 
 ### 4 - 16km Ridge Road, Kawarren East Road & Bull Hill Road
 
-- Roller coaster
+Once at the top, I turned left onto Ridge Road, a welcome downward roller coaster, with a steady rhythm of flowing 500m descents, followed by a few hundred metres of climbing.
+
+After 10km the route took a couple of turns through the outskirts of small township, past a roadworks crew resurfacing Bull Hill Road, and into Kawareen, which had a school, community hall, and tennis courts.
 
 ### 16 - 24km Old Beechy Rail Trail
 
-- Wet weather gear
-- Unexpected slightly technical climb and descent
-- mind numbing TT grind up a a 1% rail trail
+As I pulled into Kawareen it started raining, so I stopped undercover at the tennis courts and chucked on my full wet weather kit:
+
+- jacket with hood under helmet
+- rain pants with slap bands holding ankle cuffs in place
+- waterproof socks
+- waterproof gloves
+
+The first section of the Old Beechy I rode was surprisingly technical, at least on a loaded bike. The rain soaked path followed along the side of the main road, then turning off to the right and over a hill. Once at the top there was a quick and twisty bomb down the other side through forest (with many signs reminding cyclists to take it slow 🙈).
+
+From there it was on to the rail trail proper, which is much more what I was expecting: a constant slight 1% incline and very gentle curves. With the constant light rain and slight gradient, I found this one of the most mentally difficult sections of the ride, I just wanted to get to the end of it.
 
 ### 24 - 36km Return to Colac
 
-- Wet sand in the drivetrain
+Once in the outskirts of Colac the rail trail follows along a series of sandy gravel roads on the way in to the train station.
+
+At this point, the ground was very wet from the last hour's rain, causing _a lot_ of wet sand to be flicked up and get into my chain and brakes while riding over it. 5 minutes of riding on the wet hard-packed sand left my chain crunching along painfully, and sandy brake rotors scraping against the pads.
+
+I stopped twice to use a cloth to clean my chain, which temporarily solved the issue, only for it to return 5 minutes later. I took it easy for the rest of the gravel to reduce how much was being thrown into my drivetrain.
+
+Back on sealed roads my bike crunched its way through the final few kilometres back to the train station, a wave of relief and satisfaction washing over me having made it to the end of the trip.
+
+### Colac
+
+Pulling into Colac I pulled up to a closed set of rail boom-gates on one of the major north-south streets. I was interested to see if it was for a train I'd just missed, and waited a few minutes, but nothing came past. I continued on to the station without crossing the tracks, and noticed a train stuck at the platform. I had a chat with the V/Line station attendant who explained the loco had broken down, with them having to send a replacement up from Melbourne to haul it away. Likely no further trains for the day.
+
+I got changed into my casual clothes at the station, then decided to stay the night in Colac and catch the first train the next morning. I was too tired to deal with rail replacement coaches.
+
+I had a beer at the pub, found a motel room for the night, went back to the pub for more beers, then slept.
+
+The next morning I rode over to the station in the rain at 7:15am for the first train of the day, which took me back to Melbourne.
