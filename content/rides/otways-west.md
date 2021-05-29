@@ -28,16 +28,15 @@ For 3 breakfasts and 3 dinners I cooked up a dehydrated meal, which consumed 70 
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5336977772/embed/3ac9152f1d851c48490de81277112328837bac31'></iframe>
 
-
-I took the first VLine train to Colac, which departed Southern Cross at 6:55am. Once arriving in Colac, having some brekky and picking up some sandwiches at a cafe, I set off.
+I took the first VLine train to Colac, which departed Southern Cross at 6:55am. Once I arrived in Colac I picked up some supplies & a coffee from the bakery, had some brekky, and set off.
 
 ### 0 - 13km
 
-The ride started with 13km on sealed, quiet, country roads. The speed limit was 80kmh but felt pretty safe due to minimal traffic. Good views back over to the north and west from the top of the hill at around the 10km mark.
+The ride started with 13km on sealed, quiet, country roads. The speed limit was 80kmh but felt pretty safe with minimal traffic. around 10km in there were good views back over to the north and west from the top of the first climb.
 
 ### 13 - 17km
 
-At this point I descended down a pretty gravel road to find a sign at the bottom "Private Property no through access". Luckily, I bumped into the farmer and his two kids on bicycles here and he gave me directions through his property to continue on my way. If doing this route again I'd reroute around this.
+At this point I descended down a gravel road tracking through a gully only to find a sign at the bottom "Private Property no through access". Luckily, the farmer and his two kids on bicycles were about and they gave me directions through the property, over a fence, and on my way into the bush. If doing this route again I'd reroute around this.
 
 ### 17 - 30km
 
