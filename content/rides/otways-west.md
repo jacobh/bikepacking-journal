@@ -18,17 +18,7 @@ May 22 - 25 2021
 
 This route is an exploration of the western half of the Otways.
 
-#### Day 1
-Starting at the Colac train station, then heading south-west to Princetown, skirting the edges between forest and pastoral land. 
-
-#### Day 2
-Heads east starting with a coastal landscape, into farmland, then forest, and back to the coast.
-
-#### Day 3
-Muddy management vehicle and hiking tracks are slow going initially, a pit stop in Apollo Bay, then a stunning climb up to say goodbye to the coast and reenter the forest. Descending then climbing a valley, then bombing down some sketchy fire tracks to camp.
-
-#### Day 4
-Commute back to Colac
+Starting at the Colac train station, then heading south-west to Princetown, skirting the edges between forest and pastoral land.  Then cutting across to the east up into the hills, with lush forest. Dropping back down to the coast and heading across Cape Otway, then through Apollo Bay before heading back north through the hills and back to Colac.
 
 For 3 breakfasts and 3 dinners I cooked up a dehydrated meal, which consumed 70 grams of gas.
 
