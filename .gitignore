@@ -1,2 +1,5 @@
 public
 themes/anpu/public
+
+# Local Netlify folder
+.netlify
