@@ -360,7 +360,7 @@ After 10km the route took a couple of turns through the outskirts of small towns
 
 ### 16 - 24km Old Beechy Rail Trail
 
-![Old Beechy Rail Trail](IMG_6229.jpg)
+![Old Beechy Rail Trail](IMG_6230.jpg)
 
 As I pulled into Kawareen it started raining, so I stopped undercover at the tennis courts and chucked on my full wet weather kit:
 
