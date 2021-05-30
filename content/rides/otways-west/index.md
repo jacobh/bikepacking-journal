@@ -28,11 +28,16 @@ For 3 breakfasts and 3 dinners I cooked up a dehydrated meal, which consumed 70 
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5336977772/embed/3ac9152f1d851c48490de81277112328837bac31'></iframe>
 
+![Bike at Colac Station](IMG_6136.jpg)
+
 I took the first VLine train to Colac, which departed Southern Cross at 6:55am. Once I arrived in Colac I picked up some supplies & a coffee from the bakery, had some brekky, and set off.
 
 ### 0 - 13km
 
+![Views from the first hill](IMG_6138.jpg)
+
 The ride started with 13km on sealed, quiet, country roads. The speed limit was 80kmh but felt pretty safe with minimal traffic. around 10km in there were good views back over to the north and west from the top of the first climb.
+
 
 ### 13 - 17km
 
@@ -44,7 +49,9 @@ Continued mostly downhill on wide, well maintained fire roads through bushland, 
 
 ### 30km - 49km
 
-This section started by wound its way through a pine plantation, then opened up along a ridgeline, with bushland on the left and beautiful views out over plantations and farmland to the right
+![Views over farmland from the ridge](IMG_6140.jpg)
+
+This section started by wound its way through a pine plantation, then opened up along a ridge line, with bushland on the left and beautiful views out over plantations and farmland to the right
 
 ### 49km - 52km
 
@@ -68,6 +75,8 @@ Descending down Fords Rd I had my first view of the ocean for the day. The road 
 
 ### 76 - 80km
 
+![Sunset from Princetown](IMG_6151.jpg)
+
 I sipped some water, set up my tail light, and prepared myself for the final TT stretch on the GOR to camp. It was mostly downhill with light traffic so wasn't quite as bad as I was fearing.
 
 At this point the sun was very low in the sky, making for a beautiful coastal landscape. I cycled through the tiny township of Princetown (public toilets, a closed pub & a backpackers), and then over a boardwalk to the Princetown Recreation Reserve, where I set up camp for the night in a spot with a table on the edge of reserve.
@@ -78,11 +87,15 @@ At this point the sun was very low in the sky, making for a beautiful coastal la
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5342919054/embed/1d10d7c25455fbc0a016de79fe307cf810a26408'></iframe>
 
+![Sunrise from the campsite](IMG_6156.jpg)
+
 I got up around 7am feeling pretty fresh and took care of my morning camp chores, cooked some brekky, charge my devices, filled my bottles and packed up camp.
 
 I rolled out of the rec reserve around 10am and went to the end of the road towards the beach for a quick look, but decided against venturing into the deep sandy 4WD tracks.
 
 ### 0 - 30km Old Ocean Road & Gellibrand River Road
+
+![Old Ocean Road tracking through the Gellibrand river valley](IMG_6159.jpg)
 
 I made my way back out of Princetown and then onto the first leg of the day, Old Ocean Road. When planning the route I thought this would just be a little back-road connector, but it turned out to be a real highlight of the trip. The road snaked its way up along the side of the Gellibrand river in a coastal valley with steep hills on both sides.
 
@@ -90,13 +103,19 @@ After 14km the road crossed over the Great Ocean Road and continued up the Gelli
 
 ### 30 - 47km Lavers Hill - Cobden Road
 
+![Climbing through the forest](IMG_6161.jpg)
+
 After two hours of tracking along the Gellibrand I turned right, and started the ascent to Lavers Hill. After a couple of flat k's the road wound its way up to Lavers Hill at a gentle 3.7% average gradient.
 
 Initially the landscape was pastoral, but as the elevation increased it morphed into a lush rainforest with tall trees and large ferns. Creeks flowed under the road as it twisted through many gullies.
 
+![Views down to the ocean from Lavers Hill](IMG_6165.jpg)
+
 After climbing for a bit over an hour I popped out at Lavers Hill, a common cafe stop along the GOR. I fuelled up on a toastie, chips & a coke and filled up my bottles.
 
 ### 47 - 76km Colac - Lavers Hill Road, Wait-a-while Road, Aire Settlement Road & Old Ocean Road
+
+![Southern end of Aire Settlement Road](IMG_6169.jpg)
 
 From Lavers Hill I got rolling again along the mildly terrifying 100km/h limit Colac - Lavers Hill Road (which turned out to be fine). The road rolled its way up the ridge line, netting a further 120m of elevation.
 
@@ -107,6 +126,8 @@ At the bottom of the descent there was a short and sharp climb back up to the GO
 Old Ocean Road had a surface resembling yellow builders sand, which was rather slow-rolling which sapped a bit of the fun out of it. The landscape was nice with a mix of pastoral and rainforest. The road twisted down at a gentle gradient for 6km, again dropping me off at the GOR.
 
 ### 76 - 89km Sand Road & Horden Vale Road
+
+![Aire River at Sunset](IMG_6173.jpg)
 
 The sun was starting to get low in the sky. I went along the GOR for a few hundred metres and turned off to the left down Sand Road. Sand Road was reminiscent of Old Ocean Road near Princetown at the start of the day, with a landscape mixing together coastal and pastoral elements, surrounded by steep hills. for the first couple of kilometres the road was very badly corrugated, with it being difficult to find a smooth line over the surface. 5km in I reached the Aire River Campground, crossed over the bridge, and had a quick stop to put on some additional layers for the imminent evening.
 
@@ -138,6 +159,10 @@ Looking back, I have mixed feelings about the last couple of sections, as Sand R
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5353553301/embed/9fcd6d51aeb2e661d49be09665323612fd8acf62'></iframe>
 
+![Second night's camp](IMG_6175.jpg)
+
+![Sunrise over Blanket Bay](IMG_6178.jpg)
+
 I got up a bit later on the second day, around 7:30am, and with the morning light could finally properly see the campgrounds. I moseyed over to the beach and got to see the sun low over the water, lighting up the bay. I completed my chores, filling my bottles from the rainwater tank, and again rolled out around 10am.
 
 ### 0 - 17km Parker Spur Road & Snowy Ridge Track
@@ -146,17 +171,27 @@ I got up a bit later on the second day, around 7:30am, and with the morning ligh
 
 To start the day I climbed back out of the campgrounds, with a painful 200m at 10+%. It was almost funny dealing with this kind of climbing first thing in the day. Once through the worst of it I continued back up Blanket Bay Road for a further kilometre, then rode past the gate of the MVO (management vehicle only) Parker Spur Road.
 
+![Parker Spur Road](IMG_6188.jpg)
+
 Parker Spur rolled its way uphill for a few kilometres, the track covered in fallen tree foliage but otherwise in good condition. There was one large tree that had fallen over the track that I had to get off and hike over.
+
+![Parker Spur Road mud](IMG_6192.jpg)
 
 After a couple of k's track conditions degraded and it became very soft and muddy. Initially I was dismounting to walk past the mud puddles, but after doing this a few times and felt I was burning too much time, I started riding through it instead. Sketchy at first, but I quickly got the hang of it, and was making quicker progress.
 
 What I couldn't get a handle on were the muddy climbs, where my bike had absolutely no traction, the back wheel just spinning when I peddled. For these climbs I just had to hike it, and hope the surface was in good-enough condition on the other side to make up some time.
 
+![Parker Spur Road](IMG_6193.jpg)
+
 Through this section there were two intersections where the Great Ocean Walk joined and left the track, with a signpost and a couple of benches. I'm quite fond of intersections like this in the middle of the forest.
 
 #### Snowy Ridge Track
 
+![Snowy Ridge Track](IMG_6197.jpg)
+
 After 1h45m riding and trekking along Parker Spur Road I reached the turn-off to Snowy Ridge Track. If not for my GPS I wouldn't have noticed it, it was just a narrow, overgrown trail to the right of the track, heading down the hill. I wondered for a minute or two if I should head down, double checked the heatmap online, and made the call to give it a shot.
+
+![Snowy Ridge Track trees](IMG_6198.jpg)
 
 The track had a definitive corridor that would've been cleared many years ago, but it was very, very overgrown. I doubt many had hiked (let alone cycled) down it recently. There was barely a "trail", it was a grassy strip surrounded by ferns.
 
@@ -164,9 +199,15 @@ I scooted my way down the slope, left foot on my pedal, right foot on the grass,
 
 My rear brake was contaminated from the mud and loudly squealing   whenever used. I was grateful the front was still working well.
 
+![Snowy Ridge Track trees](IMG_6195.jpg)
+
 I found myself surrounded by massive, old trees. It was a surreal, intimate, experience seeing these trees up close on a track that has seen such little use. The distant rumble of GOR traffic the only thing reminding me I wasn't truly in the middle of nowhere.
 
+![Snowy Ridge Track fern overgrowth](IMG_6199.jpg)
+
 Further down, the overgrowth got to its most extreme, with ferns _completely_ covering the track, and I regretted not packing a scythe. I battled my way through relatively unscathed, just having to untangle fern branches from my cassette and derailleur.
+
+![made it through Snowy Ridge Track](IMG_6200.jpg)
 
 After this section it opened up slightly, with 4WD tyre tracks on the trail. I was actually able to descend some of this section at a decent clip, and popped out at Elliott Road, another connector to the Great Ocean Walk. From here I spun my way through a muddy, well trodden MVO track back up to the GOR.
 
@@ -184,11 +225,17 @@ I popped into the supermarket for some more chocolate bars, the bakery for a cof
 
 *2:40pm*
 
+![Killala Road Turn-off](IMG_6205.jpg)
+
 The first couple of k's followed the Barham river, through the quaint farmland behind Apollo Bay. It then reached Killala Road, which branched off to the left, and ascended up into the mountain ridge.
 
 Killala Road had properties on each side of the road at steady intervals, with driveways on the straighter and flatter sections.
 
+![Killala Road views back to the ocean](IMG_6210.jpg)
+
 The views back to the ocean over the hills were absolutely stunning, despite wanting to press on and crest the climb before sunset, I kept stopping for photos.
+
+![Killala Road valley](IMG_6211.jpg)
 
 The road crossed over passes between hills a few times, with the  drop-off alternating from the right, to the left, and back to the right.
 
@@ -196,11 +243,15 @@ At the base of the road there's a sign "School Bus Route 3:30-4:30pm". Mid-way t
 
 Towards the top of Killala Road there were a few people out and about, a woman walking her dog, a father and son walking home from the bus stop.
 
+![Old Bay Road](IMG_6213.jpg)
+
 Shortly after this point Killala Road became Old Bay Road, the surface became narrower, rougher and muddier, and the steep drop-off to the right was right up against the edge of the road. I felt comfortable negotiating this on my bicycle, but it would be terrifying being that close to the edge in a 4WD.
 
 Old Bay Road twisted its way up at a gentle 3.5% gradient for 6km, going up the right-hand-side of the ridge.
 
 While on the way up the climb the sun was dropping lower and lower in the sky, it became a bit of a race against time to get over the top of the climb and down the descent on the other side while I still had daylight.
+
+![top of Old Bay Road](IMG_6215.jpg)
 
 after almost 2 hours of climbing I passed through an odd metal gate, and stopped for a photo with the "Road Closed" sign at the top.
 
@@ -214,9 +265,13 @@ The descent was a mix of straighter sections with slight kinks, and a few sharpe
 
 Many of the corners were quite rutted and washed out, but as long as I took a consistent line through the corner the bike floated over it nicely.
 
+![Redwood Plantation](IMG_6218.jpg)
+
 At the bottom of the descent I reached a bridge over the beautiful Aire River and the redwood plantation.
 
 On the other side of the bridge was Aire Valley Road. I was relieved to be climbing back out of the valley on tarmac.
+
+![Sunset](IMG_6220.jpg)
 
 Once out of the bottom of the valley I could see a the dazzling purple and red remnants of the sunset.
 
@@ -273,13 +328,19 @@ I quickly set up camp and got dinner on the go, and was pleased with myself that
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5353553299/embed/fd92d883211c8437c7f6ed3835c20d44fbd555a1'></iframe>
 
+![3rd night's camp](IMG_6225.jpg)
+
 I woke up around 6:30am and could really feel the accumulated fatigue. It was hard to get out of bed at first, but with the knowledge of a storm rolling in later in the day, I got up a bit after 7am and got to my morning chores.
+
+![Collecting water from the river](IMG_6227.jpg)
 
 I was expecting a rainwater tank at the campsite but the toilet block didn't have one, so I made my way over to the river running through the back of the campground, and found a path down to the water level to collect water for cooking.
 
 From there the morning routine was pretty standard. Having a table really helped getting organised and repacking the bike. Having eaten most of my food the challenge of packing became quite a lot easier, freeing up space to juggle items between my bags.
 
 ### 0 - 4km Bridge Track
+
+![Bridge track's namesake](IMG_6229.jpg)
 
 I set off and climbed over the hill out of the campgrounds. With fresher legs it was much easier than the night before.
 
@@ -298,6 +359,8 @@ Once at the top, I turned left onto Ridge Road, a welcome downward roller coaste
 After 10km the route took a couple of turns through the outskirts of small township, past a roadworks crew resurfacing Bull Hill Road, and into Kawareen, which had a school, community hall, and tennis courts.
 
 ### 16 - 24km Old Beechy Rail Trail
+
+![Old Beechy Rail Trail](IMG_6229.jpg)
 
 As I pulled into Kawareen it started raining, so I stopped undercover at the tennis courts and chucked on my full wet weather kit:
 
